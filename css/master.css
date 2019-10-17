@@ -2,6 +2,10 @@
   width: 600px;
   float:left;
   text-align: center;
+  border: 2px solid green;
+  padding: 4px;
+  background-color: orange;
+  margin: 12px;
 }
 img.sizing {
   width: 600px;
